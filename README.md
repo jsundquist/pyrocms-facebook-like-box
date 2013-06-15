@@ -1,4 +1,5 @@
-pyrocms-facebook-like-box
-=========================
+# PyroCMS Facebook like box widget
 
-Facebook Like Box build for PyroCMS
+## How to use it
+
+* Download and install
